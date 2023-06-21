@@ -1,4 +1,3 @@
-<img src="./img/main.gif" align="centre">
 
 # Hi Guys! <img src="./img/waving.gif" width=30 height=30>
 
