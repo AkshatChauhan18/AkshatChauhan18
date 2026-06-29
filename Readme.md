@@ -28,3 +28,4 @@ My favourite hobby is wave boarding. ![](./img/skateboard.svg)
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatchauhan18&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs?username=akshatchauhan18&show_icons=true&locale=en&layout=compact)
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshatChauhan18&bg_color=22243c&color=ae78c2&line=6bd176&point=22e5f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
